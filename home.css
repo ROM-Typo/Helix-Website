@@ -1,0 +1,25 @@
+
+img {
+  position:absolute;
+  top:0;
+  left:0;
+  width:50%;
+  height:50%;
+  border-radius:50%;
+  margin-top:12.5%;
+}
+
+#desc {
+  position:absolute;
+  top:0;
+  left:50%;
+}
+
+body {
+  font-size:40px;
+  background-color:rgb(46,49,54);
+  color:white;
+}
+h1 {
+  font-size:54px;
+}

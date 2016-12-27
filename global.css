@@ -1,0 +1,18 @@
+#body {
+  position:relative;
+}
+nav {
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  background-color:rgb(30,33,36);
+}
+nav a {
+  color:white;
+  text-decoration: none;
+  padding:15px;
+}
+nav a:hover {
+  background-color:rgb(35, 39, 42);
+}

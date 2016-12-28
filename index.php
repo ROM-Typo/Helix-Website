@@ -13,7 +13,7 @@
       <img src="toasty.jpg" />
       <div id="desc">
         <h1>Music Toaster</h1>
-        <i>The only music bot you will ever need!</i>
+        <i>The only music bot you will ever need!!</i>
       </div>
 
     </div>
